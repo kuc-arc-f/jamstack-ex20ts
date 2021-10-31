@@ -1,0 +1,15 @@
+
+.myblog_bgcolor_main{
+  background: #512da8;  
+}
+.myblog_bgcolor_sub{
+  background : #9575cd;
+}
+.myblog_bgcolor_accent{
+  background : var(--bs-cyan);
+}
+/* color */
+.myblog_color_accent{
+ color : var(--bs-cyan);
+ font-weight: bold;
+}

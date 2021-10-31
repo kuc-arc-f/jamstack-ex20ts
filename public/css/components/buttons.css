@@ -1,0 +1,64 @@
+.btnx-indigo{
+  background: var(--bs-indigo); border: 2px solid var(--bs-indigo); 
+}
+.btnx-purpule{
+ background: var(--bs-purple); border: 2px solid var(--bs-purple); 
+}
+.btnx-pink{
+ background: var(--bs-pink); border: 2px solid var(--bs-pink);         
+}
+.btnx-orange{
+ background: var(--bs-orange); border: 2px solid var(--bs-orange);         
+}
+.btnx-teal{
+ background: var(--bs-teal); border: 2px solid var(--bs-teal);         
+}
+.btnx-cyan{
+ background: var(--bs-cyan); border: 2px solid var(--bs-cyan);         
+}
+.btnx-lime{
+ background: #7CB342; border: 2px solid #7CB342;         
+}
+.btnx-indigo-light{
+  color: var(--bs-indigo) ;background: #9FA8DA; border: 2px solid #9FA8DA; 
+}
+.btnx-purpule-light{
+ color: var(--bs-purple); background: #CE93D8; border: 2px solid #CE93D8; 
+}
+.btnx-pink-light{
+ color: var(--bs-pink);background: #F48FB1; border: 2px solid #F48FB1;         
+}
+.btnx-orange-light{
+ color: var(--bs-orange) ;background: #FFCC80; border: 2px solid #FFCC80;         
+}
+.btnx-teal-light{
+ color: #004D40;background: #80CBC4; border: 2px solid #80CBC4;         
+}
+.btnx-cyan-light{
+ color: #006064;background: #80DEEA; border: 2px solid #80DEEA;         
+}
+.btnx-lime-light{
+ color: #827717 ;background: #C5E1A5; border: 2px solid #C5E1A5;         
+}
+/* outline */
+.btnx--outline-indigo{
+  color: var(--bs-indigo); background:var(--bs-white); border: 2px solid var(--bs-indigo); 
+}
+.btnx-outline-purpule{
+ color: var(--bs-purple); background:var(--bs-white); border: 2px solid var(--bs-purple); 
+}
+.btnx-outline-pink{
+ color: var(--bs-pink); background:var(--bs-white); border: 2px solid var(--bs-pink);         
+}
+.btnx-outline-orange{
+ color: var(--bs-orange); background:var(--bs-white); border: 1px solid var(--bs-orange);         
+}
+.btnx-outline-teal{
+ color: #004D40; background:var(--bs-white); border: 2px solid #004D40;         
+}
+.btnx-outline-cyan{
+  color: var(--bs-cyan);; background:var(--bs-white); border: 2px solid var(--bs-cyan);;         
+}
+.btnx-outline-lime{
+ color: #827717; background:var(--bs-white); border: 2px solid #827717;         
+}
