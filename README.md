@@ -48,5 +48,7 @@ https://cms-kuc-jamstack-ex20.netlify.app/
 ***
 ### Blog :
 
+https://zenn.dev/knaka0209/books/4ee53bad905ec2/viewer/93f09a
+
 ***
 
